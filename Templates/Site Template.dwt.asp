@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--If you're seeing this, PLEASE EDIT THIS IN DREAMWEAVER CS3 OR LATER! This belongs to a page template, and all pages should look the same! Style guide!!!!!!! -->
 <head>
-<link rel="icon" type="image/x-icon" href="../Images/sitefavicon.png"
+<link rel="icon" type="image/x-icon" href="../Images/sitefavicon.png">
 <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <!-- TemplateBeginEditable name="doctitle" -->
