@@ -13,8 +13,7 @@
 </head>
 
 <body>
-<div id="main">
-<img alt="PunchHead Productions Logo" id="banner" src="../Images/sitebanner.png">
+<div id="main"><img alt="PunchHead Productions Logo" id="banner" src="../Images/sitebanner.png">
 <hr />
 <div id="content">
 <!--Please use this div for SWF files 600x800 ONLY!!!! Make sure the only lines in the #content Div are for the SWF!!!!!!!!!! -->

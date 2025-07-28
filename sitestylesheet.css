@@ -13,8 +13,9 @@ body {
 	text-align:center;
 	border: solid;
 	border-width:1.5px;
-	height:772px;
-	background-color:#191919;
+	height:740px;
+	background-image:url(Images/gradientbg.jpg);	
+	padding-top: 5px;	
 }
 
 a {
@@ -22,7 +23,7 @@ color:#99FFFF;
 } 
 
 #banner {
-width: 300px;
+width: 350px;
 }
 
 #content {
