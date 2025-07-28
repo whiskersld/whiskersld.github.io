@@ -15,7 +15,8 @@ body {
 	border-width:1.5px;
 	height:740px;
 	background-image:url(Images/gradientbg.jpg);	
-	padding-top: 5px;	
+	padding-top: 15px;
+	padding-bottom:10px;
 }
 
 a {
